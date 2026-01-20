@@ -1,0 +1,91 @@
+*{
+    margin:0px;
+    padding:0px;
+ font-family:"Lato",sans-serif;
+    box-sizing: border-box;
+    color:white;
+}
+body{
+    background-color:#111826;
+}
+#header{
+    margin-top:30px;
+    
+}
+#header1{
+    color:#35d499;
+    font-size:40px;
+    text-align:center;
+}
+#header2{
+    margin-top:60px;
+    margin-left:150px;
+    color:white;
+}
+#para1{
+    margin-top:20px;
+    text-align:center;
+    font-size:25px;
+    color:#9ca391
+}
+hr{
+    margin-left:150px;
+    width:1000px;
+    background-color:#114a43;
+    text-align:center;
+}
+/*Events*/
+#events{
+    display:flex;
+    justify-content:space-around;
+    margin-bottom:150px;
+    
+}
+.event{
+    height:330px;
+    width:600px;
+    
+}
+.upperpart1{
+    
+    width:600px;
+    height:305px;
+    text-align:center;
+   padding-top:109px;
+   font-size:35px;
+   border:3px solid black;
+   border-radius:20px;
+}
+#event1{
+    background-color:#35d499;
+}
+#event2{
+    background-color:#3b82f5;
+}
+#event3{
+    background-color:#f59f0a;
+}
+#event4{
+    background-color:#21518e;
+}
+#event5{
+    background-color:#431e22
+}
+#event6{
+    background-color:#4f8453
+}
+#date{
+     padding-top:30px;
+     padding-left:30px;
+}
+#name{
+     
+     padding-left:30px;
+}
+#details{
+
+     padding-left:30px;
+}
+footer{
+    text-align:center;
+}
